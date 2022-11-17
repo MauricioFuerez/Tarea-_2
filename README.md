@@ -1,4 +1,4 @@
-# Informe Tarea 1
+# Informe Tarea 2
 
 Nombre: Mauricio Fuerez
 NRC:10069
@@ -7,9 +7,9 @@ El informe realizado a continuación está evaluado y especificado para la compr
 
 1.	OBJETIVOS
 
-Entender la notación científica con sus usos correctos para las cantidades más grandes y las más pequeñas según su conversión necesaria.
-Identificar los conceptos básicos de la energía eléctrica , un circuito eléctrico básico y sus riesgos al saberlos.
-Aprender la aplicación de los voltajes, corriente y resistencias, al igual que sus análisis respectivos.
+* Entender la notación científica con sus usos correctos para las cantidades más grandes y las más pequeñas según su conversión necesaria.
+* Identificar los conceptos básicos de la energía eléctrica , un circuito eléctrico básico y sus riesgos al saberlos.
+* Aprender la aplicación de los voltajes, corriente y resistencias, al igual que sus análisis respectivos.
 
 1.2  Objetivos especificos
 
