@@ -43,32 +43,40 @@ CAPITULO 3:LEY DE OHM
 
 -Ejercicios pares
 
+<img width="456" alt="3 1" src="https://user-images.githubusercontent.com/117534483/202934333-5a697ee9-75a7-4488-801a-1c24ec0bb17f.png">
 
+<img width="460" alt="3 2" src="https://user-images.githubusercontent.com/117534483/202934341-234310ad-d473-4edd-b63f-2db872b6d4bf.png">
 
+<img width="442" alt="3 3" src="https://user-images.githubusercontent.com/117534483/202934342-bd50d8ba-9ef8-4a98-bfcc-1df92baeb4ec.png">
 
+<img width="383" alt="3 4" src="https://user-images.githubusercontent.com/117534483/202934343-e25c794b-9cd1-41b4-bba0-6938b02daf8c.png">
 
-
-
-
+<img width="391" alt="3 5" src="https://user-images.githubusercontent.com/117534483/202934344-411a1d14-cb94-4254-98df-1357c7857975.png">
 
 CAPITULO 4:ENERGIA Y POTENCIA
 
 -Ejercicios pares
 
+<img width="431" alt="4 1" src="https://user-images.githubusercontent.com/117534483/202934365-2602ed69-4756-41ac-91bc-3b0a2bc1f372.png">
 
+<img width="459" alt="4 2" src="https://user-images.githubusercontent.com/117534483/202934368-71ad52f4-d6e5-44e4-9d47-08519d47e13b.png">
 
+<img width="459" alt="4 3" src="https://user-images.githubusercontent.com/117534483/202934369-bc88334c-c145-4ab8-80e5-4085a5e7f5a1.png">
 
-
-
-
-
-
+<img width="455" alt="4 4" src="https://user-images.githubusercontent.com/117534483/202934370-d3830044-6f39-4912-9f8b-332bf4ddeca8.png">
 
 4.	VIDEO
-Aqui den estar el link de youtube de los videos en los que se explique el funcionamiento y la implementación del proyecto. En el video se debe explicar 4 ejercicios o problemas.
+
+https://youtu.be/vLroztegyoI
+
 5.	CONCLUSIONES
 
-En este informe se analizo y comprendido los temas implementados en el capitulo 1 y 2, los cuales son indispensables en el conocimiento como la notación científica sus prefijos con sus conversiones que son tan esenciales para próximos aprendizajes. Además, se repasó temas previamente analizados en clases como los de la estructura atómica, los electrones y cómo con estos podemos calcular las cargas. También se resolvió cálculos con el voltaje, corriente y las resistencias. En este último punto se aprendió de igual manera a reconocer el valor de las resistencias y los tipos de resistencias y de circuitos electrónicos que existen. Siendo este informe un medio para aprender mas sobre los implementos de los dispositivos de protección electrónica sus usos y funcionamientos. Con lo visto analizado y aprendido de este informe podemos seguir adelante con los demás temas ya que estas son las bases para seguir interpretando el como cuando y donde se puede implementar un circuito eléctrico
+En este informe se pudo constatar que para entender lo circuitos desde su forma más básica tenemos que saber La Ley de Ohm en todos sus sentidos ya que esta es la más esencias sobre todas las coas en los circuitos. Siendo este el caso en el cual más se ha puesto en práctica en los procesos de la ley de ohm, ante esto también se presentaron casos de conversiones que eran necesarias para nueva información o datos extras de los circuitos estos siendo la combinación de ley de ohm como las potencias y energías.
+Aquí aprendemos algo nuevo que es la conversión de unidades horas, minutos y segundos, dándonos así la posibilidad de identificar el porcentaje(%) de eficiencia de la potencia en un circuito.
 
 6.	BIBLIOGRAFÍA
-Emplear normas APA.
+* Floyd, T. L. (2007). Principios de circuitos electricos (8.a ed.). Pearson.
+* Johnson, D. E., Hilburn, J. L., Johnson, J. R., & Pozo, V. G. (1987). Análisis básico de circuitos eléctricos (Vol. 30). Prentice-Hall Hispanoamericana.
+* Mantilla Quijano, G., & González, H. (1977). Ley de Ohm (aplicación).
+* Balcells, J., Autonell, J., & Barra, V. (2010). Eficiencia en el uso de la energía eléctrica. Marcombo.
+* Suárez, C. P. (2001). Principios de electrotecnia. Circuitos monofásicos y trifásicos. Universidad de Oviedo.
